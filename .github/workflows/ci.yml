@@ -19,6 +19,7 @@ jobs:
          - name: Build check 
            run: echo 'Build successful!'
     test:
+      needs: build
       runs-on: ubuntu-latest
       steps:
          - uses: actions/checkout@v4
