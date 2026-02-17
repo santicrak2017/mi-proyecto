@@ -39,8 +39,9 @@ Puedes ver el estado del último despliegue aquí:
 https://santicrak2017.github.io/mi-proyecto/
 
 ---
-**Equipo:** 
-Camilo Medina Sanchez
-Santiago Zamora Garzón
-Camilo Castillo Meneses
-Nicolás Urrego Botero
+**Equipo:**  
+ Camilo Medina Sanchez  
+ Santiago Zamora Garzón  
+ Camilo Castillo Meneses  
+ Nicolás Urrego Botero  
+ 
