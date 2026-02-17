@@ -20,7 +20,7 @@ El archivo ci.yml automatiza las siguientes etapas:
 3. Deploy: Generación de página de estado y despliegue automático a la rama gh-pages.
 
 ## 🚀 Instalación Local
-Para probar este proyecto en tu computadora, ejecutá estos comandos en tu terminal:
+Para probar este proyecto en tu computadora, ejecuta estos comandos en tu terminal:
 
 1. Clona el repositorio:
 git clone https://github.com/santicrak2017/mi-proyecto.git
@@ -39,4 +39,8 @@ Puedes ver el estado del último despliegue aquí:
 https://santicrak2017.github.io/mi-proyecto/
 
 ---
-**Equipo:** [Nombres de los integrantes aquí]
+**Equipo:** 
+Camilo Medina Sanchez
+Santiago Zamora Garzón
+Camilo Castillo Meneses
+Nicolás Urrego Botero
