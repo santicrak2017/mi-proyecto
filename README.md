@@ -43,5 +43,5 @@ https://santicrak2017.github.io/mi-proyecto/
  Camilo Medina Sanchez  
  Santiago Zamora Garzón  
  Camilo Castillo Meneses  
- David Nicolás Urrego Botero  
+ Nicolás Urrego Botero  
  
